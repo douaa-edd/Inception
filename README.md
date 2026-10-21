@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by deddaidi.*
-
 # Inception
 
 ## Description
@@ -469,13 +467,3 @@ docker compose config
 * [A Simple Documentation for Inception](https://purple-page-995.notion.site/A-simple-Documentation-for-inception-dd60c488201741b09f1ed64157245bdf)
 
 ---
-
-## AI Usage
-
-AI tools were used as a learning and assistance resource during the project.
-
-They were used for:
-
-* Helping understand some technical concepts.
-* Assisting in writing the README and documentation.
-* Debugging errors.
